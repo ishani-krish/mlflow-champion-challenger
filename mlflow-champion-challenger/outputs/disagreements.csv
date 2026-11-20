@@ -1,0 +1,8 @@
+id,text,reference,pred_A,pred_B,who_is_correct,my_comment
+6,the film tunes into a grief that could lead a man across centuries .,POSITIVE,NEGATIVE,POSITIVE,B,Model B is correct because the sentence expresses appreciation for a film that explores grief and emotional themes.
+18,true tale of courage -- and complicity -- at auschwitz is a harrowing drama that tries to tell of the unspeakable .,POSITIVE,NEGATIVE,POSITIVE,B,Model B is correct because the sentence describes a harrowing drama that attempts to portray a serious historical subject.
+35,i 'll bet the video game is a lot more fun than the film .,NEGATIVE,POSITIVE,NEGATIVE,B,Model B is correct because the sentence says the film is less enjoyable than the video game.
+42,"the longer the movie goes , the worse it gets , but it 's actually pretty good in the first few minutes .",NEGATIVE,POSITIVE,NEGATIVE,B,Model B is correct because the overall opinion is negative despite a brief positive remark about the beginning.
+61,"mcconaughey 's fun to watch , the dragons are okay , not much fire in the script .",POSITIVE,POSITIVE,NEGATIVE,A,Model A is correct because the sentence praises the actor and gives some positive feedback about the film despite criticizing the script.
+69,the iditarod lasts for days - this just felt like it did .,NEGATIVE,NEGATIVE,POSITIVE,A,Model A is correct because the comparison suggests the film felt excessively long and boring.
+95,"/ but daphne , you 're too buff / fred thinks he 's tough / and velma - wow , you 've lost weight !",NEGATIVE,NEGATIVE,POSITIVE,A,Model A is correct because the sentence uses mocking remarks rather than expressing clear positive appreciation.

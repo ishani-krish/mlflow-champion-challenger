@@ -1,0 +1,11 @@
+text,prediction,score,hf_model_id,alias,model_version,expected,match
+"I absolutely loved this film, the acting was brilliant from start to finish.",POSITIVE,0.9999,distilbert-base-uncased-finetuned-sst-2-english,champion,1,POSITIVE,True
+What a waste of two hours. The plot made no sense and the ending was awful.,NEGATIVE,0.9998,distilbert-base-uncased-finetuned-sst-2-english,champion,1,NEGATIVE,True
+The soundtrack is gorgeous and the story genuinely moved me.,POSITIVE,0.9999,distilbert-base-uncased-finetuned-sst-2-english,champion,1,POSITIVE,True
+"I wanted to like it, but it was dull, slow and painfully predictable.",NEGATIVE,0.9997,distilbert-base-uncased-finetuned-sst-2-english,champion,1,NEGATIVE,True
+"A warm, funny and thoroughly enjoyable ride for the whole family.",POSITIVE,0.9999,distilbert-base-uncased-finetuned-sst-2-english,champion,1,POSITIVE,True
+The service at this restaurant was rude and the food arrived cold.,NEGATIVE,0.9998,distilbert-base-uncased-finetuned-sst-2-english,champion,1,NEGATIVE,True
+This phone is fantastic. The battery lasts all day and the camera is superb.,POSITIVE,0.9998,distilbert-base-uncased-finetuned-sst-2-english,champion,1,POSITIVE,True
+"Terrible customer support, I will never buy from them again.",NEGATIVE,0.9994,distilbert-base-uncased-finetuned-sst-2-english,champion,1,NEGATIVE,True
+The hotel room was spotless and the staff went out of their way to help us.,NEGATIVE,0.9595,distilbert-base-uncased-finetuned-sst-2-english,champion,1,POSITIVE,False
+"Not bad at all, I was pleasantly surprised by how good it turned out.",POSITIVE,0.9999,distilbert-base-uncased-finetuned-sst-2-english,champion,1,POSITIVE,True

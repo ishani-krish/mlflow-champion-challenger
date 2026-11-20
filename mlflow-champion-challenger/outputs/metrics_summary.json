@@ -1,0 +1,18 @@
+{
+  "A":{
+    "accuracy":0.91,
+    "macro_f1":0.9079,
+    "macro_precision":0.9093,
+    "macro_recall":0.9068,
+    "avg_latency_ms":50.76,
+    "total_inference_s":5.08
+  },
+  "B":{
+    "accuracy":0.92,
+    "macro_f1":0.9179,
+    "macro_precision":0.921,
+    "macro_recall":0.9155,
+    "avg_latency_ms":351.73,
+    "total_inference_s":35.17
+  }
+}
