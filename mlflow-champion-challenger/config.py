@@ -12,7 +12,7 @@ EVAL_CSV = DATA_DIR / "eval_inputs.csv"
 NEW_DATA_CSV = DATA_DIR / "new_data.csv"
 
 # ---- you ----
-STUDENT_USN = "ABC25CI060"          
+STUDENT_USN = "1MS25CI060"          
 
 # ---- MLflow names ----
 TRACKING_URI = "http://127.0.0.1:5000"
